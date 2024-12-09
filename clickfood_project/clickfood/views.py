@@ -18,7 +18,7 @@ def login_view(request):
         if user is not None:
             # Realizar login do usuário
             login(request, user)
-            return redirect('home')  # Redireciona para a página inicial, altere conforme necessário
+            return redirect('sobre')  # Redireciona para a página inicial, altere conforme necessário
         else:
             messages.error(request, 'Credenciais inválidas. Tente novamente.')
 

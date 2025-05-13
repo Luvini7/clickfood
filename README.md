@@ -146,7 +146,7 @@ Futuramente irei abrir para colaborações :)
 Caso tenha interesse em começar um projeto de front-end, que é minha especialidade, ou até mesmo continuar este projeto, entre em contato comigo!
 
 **Email:** [lucasmartins2468@gmail.com](mailto:lucasmartins2468@gmail.com)  
-**LinkedIn:** [Lucas Vinicius David Martins](https://www.linkedin.com/in/lucasvinicius7)  
+**LinkedIn:** [Lucas Vinicius](https://www.linkedin.com/in/lucasvinicius7)  
 **GitHub:** [luvini7](https://github.com/luvini7)
 **WhatsApp:** [Envie uma mensagem](https://wa.me/5588988371567)
 
